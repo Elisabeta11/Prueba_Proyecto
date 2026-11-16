@@ -1,1 +1,1 @@
-Programa de prueba para aprender a usar gitHUB
+Programa de prueba para aprender a usar gitHub
